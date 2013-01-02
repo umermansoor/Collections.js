@@ -1,0 +1,4 @@
+To run the tests:
+npm install mocha -g
+In the main project directory, type the following command:
+node_modules/mocha/bin/mocha -R list
